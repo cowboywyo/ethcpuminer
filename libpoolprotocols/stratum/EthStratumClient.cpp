@@ -1600,6 +1600,7 @@ void EthStratumClient::submitSolution(const Solution& solution)
     jReq["id"] = id;
     m_solution_submitted_max_id = max(m_solution_submitted_max_id, id);
     jReq["method"] = "mining.submit";
+    //jReq["method"] = "eth_submitWork";
     jReq["params"] = Json::Value(Json::arrayValue);
 
     switch (m_conn->StratumMode())

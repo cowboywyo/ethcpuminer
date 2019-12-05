@@ -1,0 +1,10 @@
+{
+  "name": "ethminer",
+  "version": "0.19.0-alpha.0-4+commit.f2e0934c.dirty",
+  "is_prerelease": true,
+  "commit": "f2e0934cad1703e9fe37c0ff346413038c6e7430",
+  "branch": "master",
+  "repo": "https://github.com/cowboywyo/ethcpuminer.git",
+  "system_name": "linux",
+  "system_processor": "x86_64"
+}

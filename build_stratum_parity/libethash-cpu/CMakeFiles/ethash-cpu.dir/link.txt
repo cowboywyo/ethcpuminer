@@ -1,0 +1,2 @@
+/usr/bin/ar qc libethash-cpu.a  CMakeFiles/ethash-cpu.dir/CPUMiner.cpp.o
+/usr/bin/ranlib libethash-cpu.a

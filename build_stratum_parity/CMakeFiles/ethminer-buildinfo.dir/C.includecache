@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vmm-0030-user/ethminer_cpu/ethminer/build_stratum_parity/ethminer/buildinfo.c
+buildinfo.h
+/home/vmm-0030-user/ethminer_cpu/ethminer/build_stratum_parity/ethminer/buildinfo.h
+
+/home/vmm-0030-user/ethminer_cpu/ethminer/build_stratum_parity/ethminer/buildinfo.h
+
